@@ -5,7 +5,7 @@
     Participante: Francimar Alexandre de Oliveira Dantas (20210083739)
 
 # Sobre o Aplicativo
-    Tema: Aplicativo financeiro para acompanhar os valores da bolsa brasileira.
+    Tema: Aplicativo financeiro para acompanhar as despesas pessoais e acompanhar os seus investimentos.
 
 # Tecnologias Utilizadas no Projeto
     React Native
